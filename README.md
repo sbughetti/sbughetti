@@ -1,7 +1,6 @@
 I write 
  - tricky code
  - spaghetti code
- - bug in code
 
 <!--
 **sbughetti/sbughetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
